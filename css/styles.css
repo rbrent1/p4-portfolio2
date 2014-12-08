@@ -134,7 +134,9 @@ margin-top: -50px;}
 
 @media screen and (max-width: 1086px) {
 
-
+body {
+  background: url(../img/bg.png);
+}
 
 .hr {
 border:none;
@@ -180,6 +182,10 @@ clear:both;}
 
 @media only screen and (max-width : 839px) {
 
+  body {
+  background: url(../img/bg.png);
+}
+
 h1 {
 font-size:100px;
 margin-bottom:-10px;}
@@ -211,7 +217,9 @@ font-size:20px;}
 
 @media only screen and (max-width : 609px) {
 
-
+body {
+  background: url(../img/bg.png);
+}
 
 .hr{
 clear:both;
@@ -258,12 +266,22 @@ h1 {
 font-size:3.7em;
 }
 
+body {
+  background: url(../img/bg.png);
+}
+
 }
 
 @media only screen and (max-width : 240px) {
 h1 {
 font-size:2em;
 }
+
+
+body {
+  background: url(../img/bg.png);
+}
+
 
 #thumb, #thumb2 {
 width:75%;
@@ -272,9 +290,6 @@ margin-top:10px;
 border: 10px solid rgba(255, 255, 255, 1);
 }
 }
++
 
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
