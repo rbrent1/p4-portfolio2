@@ -24,6 +24,31 @@ h2{
 }
 
 
+/* Navigation */
+ul {
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    width: 70px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+  color: #00EBE7;
+  text-decoration: underline;
+}
+
+
 /* Codepen Web 1 Notes*/
 
 /* Layout */
