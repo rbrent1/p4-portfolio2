@@ -47,7 +47,8 @@ a {
 
 a:hover {
   color: #00EBE7;
-  border-bottom: 1px #00EBE7 dotted;
+  border-bottom: 2px #00EBE7 dotted;
+  width: 100%;
 }
 
 
