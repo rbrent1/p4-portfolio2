@@ -47,7 +47,7 @@ a {
 
 a:hover {
   color: #00EBE7;
-  text-decoration: underline;
+  border-bottom: 1px #00EBE7 dotted;
 }
 
 
